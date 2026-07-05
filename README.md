@@ -35,7 +35,7 @@ I thrive when working on:
 |---|---|
 | ☕ Java Backend Development | 🧩 Data Structures & Algorithms |
 | 🍃 Spring Boot & Spring Security | 📐 System Design |
-| 🔐 JWT Authentication | 🎓 Campus Placements 2026 |
+| 🔐 JWT Authentication | 🤖 AI/ML |
 | 🌐 REST APIs Integration | 🚀 Building Impactful Software |
 
 ---
